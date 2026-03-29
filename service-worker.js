@@ -1,10 +1,10 @@
 const CACHE_NAME = 'beauty-metrixs-v3-final';
 const urlsToCache = [
-  '/beautymetrixsv3/',
-  '/beautymetrixsv3/index.html',
-  '/beautymetrixsv3/manifest.json',
-  '/beautymetrixsv3/icon-192.png',
-  '/beautymetrixsv3/icon-512.png'
+  '/BeautyMetriXv3/',
+  '/BeautyMetriXv3/index.html',
+  '/BeautyMetriXv3/manifest.json',
+  '/BeautyMetriXv3/icon-192.png',
+  '/BeautyMetriXv3/icon-512.png'
 ];
 
 // Install service worker
